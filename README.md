@@ -9,7 +9,7 @@
 - Binary Search: 2/7
 - Sliding Window: 0/6
 - Linked List: 3/11
-- Trees: 0/15
+- Trees: 6/15
 - Tries: 0/3
 - Heap / Priority Queue: 0/7
 - Backtracking: 0/9
