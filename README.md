@@ -16,8 +16,8 @@
 - Graphs: 0/13
 - 1-D DP: 0/12
 - Intervals: 0/6
-- Greedy: 1/8
+- Greedy: 0/8
 - Advanced Graphs: 0/6
-- 2-D DP: 2/11
-- Bit Manipulation: 4/7
+- 2-D DP: 0/11
+- Bit Manipulation: 0/7
 - Math & Geometry: 0/8
