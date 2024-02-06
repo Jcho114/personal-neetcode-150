@@ -14,7 +14,7 @@
 - Heap / Priority Queue: 0/7
 - Backtracking: 0/9
 - Graphs: 0/13
-- 1-D DP: 2/12
+- 1-D DP: 5/12
 - Intervals: 0/6
 - Greedy: 0/8
 - Advanced Graphs: 0/6
