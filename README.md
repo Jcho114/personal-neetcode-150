@@ -11,7 +11,7 @@
 - Linked List: 3/11
 - Trees: 6/15
 - Tries: 0/3
-- Heap / Priority Queue: 0/7
+- Heap / Priority Queue: 4/7
 - Backtracking: 0/9
 - Graphs: 0/13
 - 1-D DP: 5/12
