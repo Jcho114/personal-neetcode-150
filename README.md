@@ -5,7 +5,7 @@
 ## Progress
 - Arrays & Hashing: 6/9
 - Two Pointers: 3/5
-- Stack: 0/7
+- Stack: 4/7
 - Binary Search: 2/7
 - Sliding Window: 0/6
 - Linked List: 3/11
