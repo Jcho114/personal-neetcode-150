@@ -13,7 +13,7 @@
 - Tries: 0/3
 - Heap / Priority Queue: 4/7
 - Backtracking: 3/9
-- Graphs: 6/13
+- Graphs: 8/13
 - 1-D DP: 5/12
 - Intervals: 2/6
 - Greedy: 0/8
