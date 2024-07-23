@@ -7,7 +7,7 @@
 - Two Pointers: 3/5
 - Stack: 4/7
 - Binary Search: 2/7
-- Sliding Window: 2/6
+- Sliding Window: 4/6
 - Linked List: 3/11
 - Trees: 6/15
 - Tries: 0/3
