@@ -6,7 +6,7 @@
 - Arrays & Hashing: 6/9
 - Two Pointers: 3/5
 - Stack: 4/7
-- Binary Search: 2/7
+- Binary Search: 5/7
 - Sliding Window: 4/6
 - Linked List: 3/11
 - Trees: 6/15
