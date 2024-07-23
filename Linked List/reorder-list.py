@@ -19,11 +19,7 @@ Output: [1,5,2,4,3]
 """
 
 from typing import Optional
-
-class Node:
-  def __init__(self, val=0, next=None):
-    self.val = val
-    self.next = next
+from node import Node
 
 def reorder_list(head: Optional[Node]) -> None:
   nodes = []

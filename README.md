@@ -8,7 +8,7 @@
 - Stack: 4/7
 - Binary Search: 5/7
 - Sliding Window: 4/6
-- Linked List: 3/11
+- Linked List: 7/11
 - Trees: 6/15
 - Tries: 0/3
 - Heap / Priority Queue: 4/7

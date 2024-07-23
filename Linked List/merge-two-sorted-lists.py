@@ -24,11 +24,7 @@ Output: [0]
 """
 
 from typing import Optional
-
-class Node:
-  def __init__(self, val=0, next=None):
-    self.val = val
-    self.next = next
+from node import Node
 
 def merge_two_sorted_lists(list1: Optional[Node], list2: Optional[Node]) -> Optional[Node]:
   # case where only list1 exists

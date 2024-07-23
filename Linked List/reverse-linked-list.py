@@ -20,11 +20,7 @@ Output: []
 """
 
 from typing import Optional
-
-class Node:
-  def __init__(self, val=0, next=None):
-    self.val = val
-    self.next = next
+from node import Node
 
 def reverse_linked_list(head: Optional[Node]) -> Optional[Node]:
   curr, prev = head, None
